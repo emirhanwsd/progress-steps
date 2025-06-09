@@ -1,4 +1,4 @@
-import ProgressSteps from "@/components/ProgressSteps";
+import ProgressSteps from "@/components/progress-steps";
 import Head from "next/head";
 
 const Home = () => {
